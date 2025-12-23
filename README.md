@@ -1,5 +1,7 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
 
+AJAY S (252225050002)
+
 **AIM:**
 
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
