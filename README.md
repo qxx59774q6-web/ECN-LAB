@@ -27,9 +27,14 @@ AJAY S (252225050002)
 **CIRCUIT DIAGRAM:**
 <img width="1280" height="1213" alt="image" src="https://github.com/user-attachments/assets/5561b2eb-5161-4343-8368-429fd812346d" />
 **TABULATION**
-<img width="1026" height="1600" alt="image" src="https://github.com/user-attachments/assets/feff5f22-78df-48aa-b571-c248356bdb57" />
+
+![image](https://github.com/user-attachments/assets/e03b9149-33c1-4261-a836-98b2d622499d)
+
+
 **CALCULATION**
-<img width="634" height="1280" alt="image" src="https://github.com/user-attachments/assets/77a5e889-6164-4c78-944d-9a141ed1846d" />
+
+![image](https://github.com/user-attachments/assets/33e4b6f8-50b3-472f-a893-29f8b1920c59)
+
 
 
 
